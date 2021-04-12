@@ -1,4 +1,4 @@
-# manipulate-and-recreate-data-set
+# Manipulate-and-Recreate-Data-Set
 
 This is a course project from the Customer Analytics course at UCSD, and the data set is obtained from the course as well. The goal of this project is to manipulate and recreate a bookstore company's data set.
 
